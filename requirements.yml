@@ -1,0 +1,28 @@
+name: ox
+channels:
+  - conda-forge
+  - auto
+dependencies:
+  - alembic
+  - certifi
+  - cffi
+  - chardet
+  - Click
+  - Flask
+  - Flask-SQLAlchemy
+  - gunicorn
+  - idna
+  - itsdangerous
+  - Jinja2
+  - Mako
+  - MarkupSafe
+  - misaka
+  - psycopg2
+  - pycparser
+  - python-dotenv
+  - python-editor
+  - requests
+  - six
+  - SQLAlchemy
+  - urllib3
+  - Werkzeug
